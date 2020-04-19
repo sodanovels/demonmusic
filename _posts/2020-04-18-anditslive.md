@@ -17,6 +17,9 @@ I think it's fair to say our sharing of music has always been an immutable heart
 
 ***Lot's of love, in 4/4 time.***
 
+
+{% include spotifyPlaylist.html id="7AIdDZOivZleF35Be2OYfb" %}
+
 <iframe src="https://open.spotify.com/embed/playlist/7AIdDZOivZleF35Be2OYfb" width=600" height="420" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
