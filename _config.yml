@@ -3,7 +3,7 @@ title: Graydidi
 baseurl: ""
 desc: Tunes to grind, ground and grimace to...
 about: Tune in, turn on and churn out.
-image: http:graydidi.com/graydidi_headshot.jpg
+image: https://graydidi.com/graydidi_headshot.jpg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
