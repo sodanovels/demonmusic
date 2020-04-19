@@ -20,8 +20,3 @@ I think it's fair to say our sharing of music has always been an immutable heart
 
 ## You Can't Quarantine the Past
 {% include spotifyPlaylist.html id="7AIdDZOivZleF35Be2OYfb" %}
-
-
-
-
-...
