@@ -9,6 +9,7 @@ tags:
 desc: You Can't Quarantine the Past
 layout: post
 ---
+### You Can't Quarantine the Past
 This had to reboot somewhere, sometime, turns out it's in the midst of some self-isolating weirdness that some of us, or one of us, saw coming! Reality is certainly more different than it's ever been, but music, not so much! It's soulful and always will be.
 
 <!-- more -->
