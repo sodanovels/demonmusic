@@ -3,7 +3,7 @@ title: Waking Up Without Spirituality
 tags:
 - Spotify
 - Graydidi
-- Dancy
+- Mellow
 desc:  Waking Up Without Spirituality
 layout: post
 ---
